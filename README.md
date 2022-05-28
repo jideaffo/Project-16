@@ -36,8 +36,6 @@ You shall see your previously created S3 bucket name – <yourname>-dev-terrafor
 
 ![alt text](./images/a2.PNG)
 
-![alt text](image.jpg)
-
 
 The secrets of writing quality Terraform code
 The secret recipe of a successful Terraform projects consists of:
@@ -219,7 +217,7 @@ To destroy whatever has been created run terraform destroy command, and type yes
 
 ![alt text](./images/b.PNG)
 
-![alt text](image.jpg)
+
 
 
 # FIXING THE PROBLEMS BY CODE REFACTORING
